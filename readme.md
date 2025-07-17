@@ -1,3 +1,11 @@
+<!--
+ * @Author: Maybe 1913093102@qq.com
+ * @Date: 2025-05-01 13:56:09
+ * @LastEditors: Maybe 1913093102@qq.com
+ * @LastEditTime: 2025-07-17 12:04:54
+ * @FilePath: \LOLSkinTran\readme.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # LOL Skin 国服皮肤翻译包
 
 ## 说明
@@ -16,11 +24,11 @@ https://github.com/darkseal-org/lol-skins
 
 3. 打开skin找到"英雄名/皮肤名.zip"
 
-   ![image-20250501011052303](https://raw.githubusercontent.com/MAYBEIS/LOL-skin-zh/refs/heads/main/img/image-20250501011052303.png)
+   ![image-20250501011052303](https://raw.githubusercontent.com/MAYBEIS/LOLSkinTran/refs/heads/main/img/image-20250501011052303.png)
 
 4. 拖入软件界面后勾选启动点击右上角启动，进游戏加载画面前开启即可。
 
-   ![image-20250501011030491](https://raw.githubusercontent.com/MAYBEIS/LOL-skin-zh/refs/heads/main/img/image-20250501011030491.png)
+   ![image-20250501011030491](https://raw.githubusercontent.com/MAYBEIS/LOLSkinTran/refs/heads/main/img/image-20250501011030491.png)
 
 5. 游戏**选择默认皮肤**即可~🤗
 
