@@ -2,7 +2,7 @@
  * @Author: Maybe 1913093102@qq.com
  * @Date: 2025-05-01 13:56:09
  * @LastEditors: Maybe 1913093102@qq.com
- * @LastEditTime: 2025-07-17 12:30:46
+ * @LastEditTime: 2025-07-18 09:27:00
  * @FilePath: \LOLSkinTran\readme.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -14,7 +14,7 @@ Fork自darkseal-org的skin仓库的分支
 https://github.com/darkseal-org/lol-skins
 仅做了文件夹和文件名翻译处理。
 
-**目前国服已经封禁CSmanager，方法已失效!!!!**
+**!!!目前国服已经封禁CSmanager，方法已失效!!!!**
 ### 使用
 
 1. 下载csmanager https://lcsmanager.com/ ，修复权限管理员启动
